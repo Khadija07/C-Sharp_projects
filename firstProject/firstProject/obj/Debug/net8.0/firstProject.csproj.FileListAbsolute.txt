@@ -1,0 +1,15 @@
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\firstProject\firstProject\bin\Debug\net8.0\firstProject.exe
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\firstProject\firstProject\bin\Debug\net8.0\firstProject.deps.json
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\firstProject\firstProject\bin\Debug\net8.0\firstProject.runtimeconfig.json
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\firstProject\firstProject\bin\Debug\net8.0\firstProject.dll
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\firstProject\firstProject\bin\Debug\net8.0\firstProject.pdb
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\firstProject\firstProject\obj\Debug\net8.0\firstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\firstProject\firstProject\obj\Debug\net8.0\firstProject.AssemblyInfoInputs.cache
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\firstProject\firstProject\obj\Debug\net8.0\firstProject.AssemblyInfo.cs
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\firstProject\firstProject\obj\Debug\net8.0\firstProject.csproj.CoreCompileInputs.cache
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\firstProject\firstProject\obj\Debug\net8.0\firstProject.sourcelink.json
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\firstProject\firstProject\obj\Debug\net8.0\firstProject.dll
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\firstProject\firstProject\obj\Debug\net8.0\refint\firstProject.dll
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\firstProject\firstProject\obj\Debug\net8.0\firstProject.pdb
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\firstProject\firstProject\obj\Debug\net8.0\firstProject.genruntimeconfig.cache
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\firstProject\firstProject\obj\Debug\net8.0\ref\firstProject.dll
