@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\secondProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58D5FC64-B9D9-4999-BA1A-B40061C3AC7B}|secondProject\\secondProject.csproj|c:\\users\\khadijtul kobra\\documents\\github\\c-sharp_projects\\secondproject\\secondproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D5FC64-B9D9-4999-BA1A-B40061C3AC7B}|secondProject\\secondProject.csproj|solutionrelative:secondproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\secondProject\\secondProject\\Program.cs",
+              "RelativeDocumentMoniker": "secondProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\secondProject\\secondProject\\Program.cs",
+              "RelativeToolTip": "secondProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:24:02.262Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
