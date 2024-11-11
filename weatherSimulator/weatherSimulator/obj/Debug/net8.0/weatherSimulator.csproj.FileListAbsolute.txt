@@ -1,0 +1,15 @@
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\weatherSimulator\weatherSimulator\bin\Debug\net8.0\weatherSimulator.exe
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\weatherSimulator\weatherSimulator\bin\Debug\net8.0\weatherSimulator.deps.json
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\weatherSimulator\weatherSimulator\bin\Debug\net8.0\weatherSimulator.runtimeconfig.json
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\weatherSimulator\weatherSimulator\bin\Debug\net8.0\weatherSimulator.dll
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\weatherSimulator\weatherSimulator\bin\Debug\net8.0\weatherSimulator.pdb
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\weatherSimulator\weatherSimulator\obj\Debug\net8.0\weatherSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\weatherSimulator\weatherSimulator\obj\Debug\net8.0\weatherSimulator.AssemblyInfoInputs.cache
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\weatherSimulator\weatherSimulator\obj\Debug\net8.0\weatherSimulator.AssemblyInfo.cs
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\weatherSimulator\weatherSimulator\obj\Debug\net8.0\weatherSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\weatherSimulator\weatherSimulator\obj\Debug\net8.0\weatherSimulator.sourcelink.json
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\weatherSimulator\weatherSimulator\obj\Debug\net8.0\weatherSimulator.dll
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\weatherSimulator\weatherSimulator\obj\Debug\net8.0\refint\weatherSimulator.dll
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\weatherSimulator\weatherSimulator\obj\Debug\net8.0\weatherSimulator.pdb
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\weatherSimulator\weatherSimulator\obj\Debug\net8.0\weatherSimulator.genruntimeconfig.cache
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\weatherSimulator\weatherSimulator\obj\Debug\net8.0\ref\weatherSimulator.dll

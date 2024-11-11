@@ -1,0 +1,15 @@
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\averageTemperatureExercise\averageTemperatureExercise\bin\Debug\net8.0\averageTemperatureExercise.exe
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\averageTemperatureExercise\averageTemperatureExercise\bin\Debug\net8.0\averageTemperatureExercise.deps.json
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\averageTemperatureExercise\averageTemperatureExercise\bin\Debug\net8.0\averageTemperatureExercise.runtimeconfig.json
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\averageTemperatureExercise\averageTemperatureExercise\bin\Debug\net8.0\averageTemperatureExercise.dll
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\averageTemperatureExercise\averageTemperatureExercise\bin\Debug\net8.0\averageTemperatureExercise.pdb
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\averageTemperatureExercise\averageTemperatureExercise\obj\Debug\net8.0\averageTemperatureExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\averageTemperatureExercise\averageTemperatureExercise\obj\Debug\net8.0\averageTemperatureExercise.AssemblyInfoInputs.cache
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\averageTemperatureExercise\averageTemperatureExercise\obj\Debug\net8.0\averageTemperatureExercise.AssemblyInfo.cs
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\averageTemperatureExercise\averageTemperatureExercise\obj\Debug\net8.0\averageTemperatureExercise.csproj.CoreCompileInputs.cache
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\averageTemperatureExercise\averageTemperatureExercise\obj\Debug\net8.0\averageTemperatureExercise.sourcelink.json
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\averageTemperatureExercise\averageTemperatureExercise\obj\Debug\net8.0\averageTemperatureExercise.dll
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\averageTemperatureExercise\averageTemperatureExercise\obj\Debug\net8.0\refint\averageTemperatureExercise.dll
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\averageTemperatureExercise\averageTemperatureExercise\obj\Debug\net8.0\averageTemperatureExercise.pdb
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\averageTemperatureExercise\averageTemperatureExercise\obj\Debug\net8.0\averageTemperatureExercise.genruntimeconfig.cache
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\averageTemperatureExercise\averageTemperatureExercise\obj\Debug\net8.0\ref\averageTemperatureExercise.dll

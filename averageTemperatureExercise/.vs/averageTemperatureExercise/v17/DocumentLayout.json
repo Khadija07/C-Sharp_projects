@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\averageTemperatureExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4F7049-6B5B-405C-A9A7-9632301E1520}|averageTemperatureExercise\\averageTemperatureExercise.csproj|c:\\users\\khadijtul kobra\\documents\\github\\c-sharp_projects\\averagetemperatureexercise\\averagetemperatureexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4F7049-6B5B-405C-A9A7-9632301E1520}|averageTemperatureExercise\\averageTemperatureExercise.csproj|solutionrelative:averagetemperatureexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\averageTemperatureExercise\\averageTemperatureExercise\\Program.cs",
+              "RelativeDocumentMoniker": "averageTemperatureExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\averageTemperatureExercise\\averageTemperatureExercise\\Program.cs",
+              "RelativeToolTip": "averageTemperatureExercise\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:25:18.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
