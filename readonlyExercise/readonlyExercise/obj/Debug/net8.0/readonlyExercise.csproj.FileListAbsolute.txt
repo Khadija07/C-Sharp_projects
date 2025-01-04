@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/readonlyExercise/readonlyExercise/obj/Debug/net8.0/readonlyExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/readonlyExercise/readonlyExercise/obj/Debug/net8.0/readonlyExercise.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/readonlyExercise/readonlyExercise/obj/Debug/net8.0/readonlyExercise.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/readonlyExercise/readonlyExercise/obj/Debug/net8.0/readonlyExercise.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/readonlyExercise/readonlyExercise/obj/Debug/net8.0/readonlyExercise.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/readonlyExercise/readonlyExercise/bin/Debug/net8.0/readonlyExercise
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/readonlyExercise/readonlyExercise/bin/Debug/net8.0/readonlyExercise.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/readonlyExercise/readonlyExercise/bin/Debug/net8.0/readonlyExercise.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/readonlyExercise/readonlyExercise/bin/Debug/net8.0/readonlyExercise.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/readonlyExercise/readonlyExercise/bin/Debug/net8.0/readonlyExercise.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/readonlyExercise/readonlyExercise/obj/Debug/net8.0/readonlyExercise.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/readonlyExercise/readonlyExercise/obj/Debug/net8.0/refint/readonlyExercise.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/readonlyExercise/readonlyExercise/obj/Debug/net8.0/readonlyExercise.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/readonlyExercise/readonlyExercise/obj/Debug/net8.0/readonlyExercise.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/readonlyExercise/readonlyExercise/obj/Debug/net8.0/ref/readonlyExercise.dll
