@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/PropertiesExercise/PropertiesExercise/bin/Debug/net8.0/PropertiesExercise
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/PropertiesExercise/PropertiesExercise/bin/Debug/net8.0/PropertiesExercise.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/PropertiesExercise/PropertiesExercise/bin/Debug/net8.0/PropertiesExercise.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/PropertiesExercise/PropertiesExercise/bin/Debug/net8.0/PropertiesExercise.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/PropertiesExercise/PropertiesExercise/bin/Debug/net8.0/PropertiesExercise.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/PropertiesExercise/PropertiesExercise/obj/Debug/net8.0/PropertiesExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/PropertiesExercise/PropertiesExercise/obj/Debug/net8.0/PropertiesExercise.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/PropertiesExercise/PropertiesExercise/obj/Debug/net8.0/PropertiesExercise.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/PropertiesExercise/PropertiesExercise/obj/Debug/net8.0/PropertiesExercise.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/PropertiesExercise/PropertiesExercise/obj/Debug/net8.0/PropertiesExercise.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/PropertiesExercise/PropertiesExercise/obj/Debug/net8.0/PropertiesExercise.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/PropertiesExercise/PropertiesExercise/obj/Debug/net8.0/refint/PropertiesExercise.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/PropertiesExercise/PropertiesExercise/obj/Debug/net8.0/PropertiesExercise.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/PropertiesExercise/PropertiesExercise/obj/Debug/net8.0/PropertiesExercise.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/PropertiesExercise/PropertiesExercise/obj/Debug/net8.0/ref/PropertiesExercise.dll

@@ -16,7 +16,7 @@ public class Quiz
         int questionNumber = 1;
         Console.ForegroundColor = ConsoleColor.Blue;
         Console.WriteLine("=====================================================================");
-        Console.WriteLine("=======================   Q U E S T I O N S    ======================");
+        Console.WriteLine("=======================   Q U E S T I O N S   =======================");
         Console.WriteLine("=====================================================================");
         Console.ResetColor();
         foreach (Question question in _questions)
