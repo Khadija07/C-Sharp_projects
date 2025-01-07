@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/QuizApp/QuizApp/bin/Debug/net8.0/QuizApp
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/QuizApp/QuizApp/bin/Debug/net8.0/QuizApp.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/QuizApp/QuizApp/bin/Debug/net8.0/QuizApp.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/QuizApp/QuizApp/bin/Debug/net8.0/QuizApp.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/QuizApp/QuizApp/bin/Debug/net8.0/QuizApp.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/QuizApp/QuizApp/obj/Debug/net8.0/QuizApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/QuizApp/QuizApp/obj/Debug/net8.0/QuizApp.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/QuizApp/QuizApp/obj/Debug/net8.0/QuizApp.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/QuizApp/QuizApp/obj/Debug/net8.0/QuizApp.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/QuizApp/QuizApp/obj/Debug/net8.0/QuizApp.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/QuizApp/QuizApp/obj/Debug/net8.0/QuizApp.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/QuizApp/QuizApp/obj/Debug/net8.0/refint/QuizApp.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/QuizApp/QuizApp/obj/Debug/net8.0/QuizApp.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/QuizApp/QuizApp/obj/Debug/net8.0/QuizApp.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/QuizApp/QuizApp/obj/Debug/net8.0/ref/QuizApp.dll
