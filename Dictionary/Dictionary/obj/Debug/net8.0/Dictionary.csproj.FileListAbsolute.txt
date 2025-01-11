@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Dictionary/Dictionary/bin/Debug/net8.0/Dictionary
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Dictionary/Dictionary/bin/Debug/net8.0/Dictionary.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Dictionary/Dictionary/bin/Debug/net8.0/Dictionary.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Dictionary/Dictionary/bin/Debug/net8.0/Dictionary.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Dictionary/Dictionary/bin/Debug/net8.0/Dictionary.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Dictionary/Dictionary/obj/Debug/net8.0/Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Dictionary/Dictionary/obj/Debug/net8.0/Dictionary.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Dictionary/Dictionary/obj/Debug/net8.0/Dictionary.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Dictionary/Dictionary/obj/Debug/net8.0/Dictionary.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Dictionary/Dictionary/obj/Debug/net8.0/Dictionary.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Dictionary/Dictionary/obj/Debug/net8.0/Dictionary.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Dictionary/Dictionary/obj/Debug/net8.0/refint/Dictionary.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Dictionary/Dictionary/obj/Debug/net8.0/Dictionary.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Dictionary/Dictionary/obj/Debug/net8.0/Dictionary.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Dictionary/Dictionary/obj/Debug/net8.0/ref/Dictionary.dll
