@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceExercise/InheritanceExercise/obj/Debug/net8.0/InheritanceExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceExercise/InheritanceExercise/obj/Debug/net8.0/InheritanceExercise.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceExercise/InheritanceExercise/obj/Debug/net8.0/InheritanceExercise.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceExercise/InheritanceExercise/obj/Debug/net8.0/InheritanceExercise.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceExercise/InheritanceExercise/obj/Debug/net8.0/InheritanceExercise.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceExercise/InheritanceExercise/bin/Debug/net8.0/InheritanceExercise
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceExercise/InheritanceExercise/bin/Debug/net8.0/InheritanceExercise.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceExercise/InheritanceExercise/bin/Debug/net8.0/InheritanceExercise.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceExercise/InheritanceExercise/bin/Debug/net8.0/InheritanceExercise.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceExercise/InheritanceExercise/bin/Debug/net8.0/InheritanceExercise.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceExercise/InheritanceExercise/obj/Debug/net8.0/InheritanceExercise.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceExercise/InheritanceExercise/obj/Debug/net8.0/refint/InheritanceExercise.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceExercise/InheritanceExercise/obj/Debug/net8.0/InheritanceExercise.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceExercise/InheritanceExercise/obj/Debug/net8.0/InheritanceExercise.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceExercise/InheritanceExercise/obj/Debug/net8.0/ref/InheritanceExercise.dll
