@@ -19,8 +19,7 @@ class Program
 
             result = num2 / num1;
         }
-        catch (FormatException
-               ex) //to check the type of exception, print ex.toString(), such as "System.FormatException: The input string 'f' was not in a correct format."
+        catch (FormatException ex) //to check the type of exception, print ex.toString(), such as "System.FormatException: The input string 'f' was not in a correct format."
         {
             Console.WriteLine("Invalid number!" + ex.Message);
         }
@@ -35,7 +34,7 @@ class Program
             Debug.WriteLine(ex
                 .ToString()); //converting the entire exception to string, it is only executed during 'debugging', not in build mode
         }
-        finally
+        finally    //this will run regardless of exception
         {
             Console.WriteLine("Program is running!");
         }

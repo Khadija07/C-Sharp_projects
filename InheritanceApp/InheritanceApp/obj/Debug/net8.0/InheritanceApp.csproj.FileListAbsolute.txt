@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceApp/InheritanceApp/bin/Debug/net8.0/InheritanceApp
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceApp/InheritanceApp/bin/Debug/net8.0/InheritanceApp.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceApp/InheritanceApp/bin/Debug/net8.0/InheritanceApp.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceApp/InheritanceApp/bin/Debug/net8.0/InheritanceApp.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceApp/InheritanceApp/bin/Debug/net8.0/InheritanceApp.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceApp/InheritanceApp/obj/Debug/net8.0/InheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceApp/InheritanceApp/obj/Debug/net8.0/InheritanceApp.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceApp/InheritanceApp/obj/Debug/net8.0/InheritanceApp.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceApp/InheritanceApp/obj/Debug/net8.0/InheritanceApp.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceApp/InheritanceApp/obj/Debug/net8.0/InheritanceApp.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceApp/InheritanceApp/obj/Debug/net8.0/InheritanceApp.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceApp/InheritanceApp/obj/Debug/net8.0/refint/InheritanceApp.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceApp/InheritanceApp/obj/Debug/net8.0/InheritanceApp.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceApp/InheritanceApp/obj/Debug/net8.0/InheritanceApp.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InheritanceApp/InheritanceApp/obj/Debug/net8.0/ref/InheritanceApp.dll
