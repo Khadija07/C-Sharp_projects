@@ -4,9 +4,16 @@ class Program
 {
     static void Main(string[] args)
     {
-        Employee employee1 = new Employee("Mike", 56, "software developer", 123);
+        //Employee employee1 = new Employee("Mike", 56, "software developer", 123);
         //employee1.DisplayInfo();  //first goes to base class, then Employee class, then to displayinfo
-        employee1.DisplayEmployeeInfo();
+        //employee1.DisplayEmployeeInfo();
+
+        Manager Carl = new Manager("carl", 60, "manager", 103, 10);
+        Carl.Aging(10);
+        Carl.DisplayInfo();
+        //Carl.DisplayManagerInfo();
+        
+        //Console.WriteLine(Carl.ToString());  //every class inherits from the 'object' class, press 'command' keyboard and go to the ToString(), the class is 'object class'
     }
 }
 
@@ -28,6 +35,17 @@ public class Person
         Console.WriteLine($"Name: {Name}, Age: {Age}");
     }
     
+    //below are XML comments, we can see the description when we hover over the method name 'Aging'
+    
+    /// <summary> Adds years to the the age of the object </summary>
+    /// <param name="years"></param>
+    /// <returns> New age after becoming older</returns>
+
+    public int Aging(int years)
+    {
+        Age += years;
+        return Age;
+    }
 }
 
 public class Employee : Person
@@ -41,16 +59,17 @@ public class Employee : Person
         Console.WriteLine("Derived class Constructor");
         JobTitle = jobTitle;
         EmployeeId = employeeId;
-        Console.WriteLine($"derived: name: {Name}, age: {Age}");
+        //Console.WriteLine($"derived: name: {Name}, age: {Age}");
     }
 
     public void DisplayEmployeeInfo()
     {
         DisplayInfo(); //call method from base class
-        Console.WriteLine($"Name: {Name}, Age: {Age}, Job Title: {JobTitle}");
+        Console.WriteLine($"EmployerID: {EmployeeId}, Job Title: {JobTitle}");
     }
 }
 
+//multiple derived classes
 public class Manager : Employee
 {
     public int TeamSize { get; private set; }
@@ -62,6 +81,6 @@ public class Manager : Employee
     public void DisplayManagerInfo()
     {
         DisplayEmployeeInfo();
-        Console.WriteLine($"Name: {Name}, Age: {Age}, Team Size: {TeamSize}");
+        Console.WriteLine($"Team Size: {TeamSize}");
     }
 }

@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciceInheritance/AdvanceExerciceInheritance/bin/Debug/net8.0/AdvanceExerciceInheritance
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciceInheritance/AdvanceExerciceInheritance/bin/Debug/net8.0/AdvanceExerciceInheritance.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciceInheritance/AdvanceExerciceInheritance/bin/Debug/net8.0/AdvanceExerciceInheritance.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciceInheritance/AdvanceExerciceInheritance/bin/Debug/net8.0/AdvanceExerciceInheritance.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciceInheritance/AdvanceExerciceInheritance/bin/Debug/net8.0/AdvanceExerciceInheritance.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciceInheritance/AdvanceExerciceInheritance/obj/Debug/net8.0/AdvanceExerciceInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciceInheritance/AdvanceExerciceInheritance/obj/Debug/net8.0/AdvanceExerciceInheritance.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciceInheritance/AdvanceExerciceInheritance/obj/Debug/net8.0/AdvanceExerciceInheritance.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciceInheritance/AdvanceExerciceInheritance/obj/Debug/net8.0/AdvanceExerciceInheritance.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciceInheritance/AdvanceExerciceInheritance/obj/Debug/net8.0/AdvanceExerciceInheritance.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciceInheritance/AdvanceExerciceInheritance/obj/Debug/net8.0/AdvanceExerciceInheritance.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciceInheritance/AdvanceExerciceInheritance/obj/Debug/net8.0/refint/AdvanceExerciceInheritance.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciceInheritance/AdvanceExerciceInheritance/obj/Debug/net8.0/AdvanceExerciceInheritance.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciceInheritance/AdvanceExerciceInheritance/obj/Debug/net8.0/AdvanceExerciceInheritance.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciceInheritance/AdvanceExerciceInheritance/obj/Debug/net8.0/ref/AdvanceExerciceInheritance.dll
