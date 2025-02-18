@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InterfaceApp/InterfaceApp/bin/Debug/net8.0/InterfaceApp
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InterfaceApp/InterfaceApp/bin/Debug/net8.0/InterfaceApp.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InterfaceApp/InterfaceApp/bin/Debug/net8.0/InterfaceApp.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InterfaceApp/InterfaceApp/bin/Debug/net8.0/InterfaceApp.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InterfaceApp/InterfaceApp/bin/Debug/net8.0/InterfaceApp.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InterfaceApp/InterfaceApp/obj/Debug/net8.0/InterfaceApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InterfaceApp/InterfaceApp/obj/Debug/net8.0/InterfaceApp.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InterfaceApp/InterfaceApp/obj/Debug/net8.0/InterfaceApp.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InterfaceApp/InterfaceApp/obj/Debug/net8.0/InterfaceApp.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InterfaceApp/InterfaceApp/obj/Debug/net8.0/InterfaceApp.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InterfaceApp/InterfaceApp/obj/Debug/net8.0/InterfaceApp.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InterfaceApp/InterfaceApp/obj/Debug/net8.0/refint/InterfaceApp.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InterfaceApp/InterfaceApp/obj/Debug/net8.0/InterfaceApp.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InterfaceApp/InterfaceApp/obj/Debug/net8.0/InterfaceApp.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/InterfaceApp/InterfaceApp/obj/Debug/net8.0/ref/InterfaceApp.dll

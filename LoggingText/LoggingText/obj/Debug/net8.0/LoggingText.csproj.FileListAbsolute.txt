@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/bin/Debug/net8.0/LoggingText
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/bin/Debug/net8.0/LoggingText.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/bin/Debug/net8.0/LoggingText.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/bin/Debug/net8.0/LoggingText.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/bin/Debug/net8.0/LoggingText.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/obj/Debug/net8.0/LoggingText.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/obj/Debug/net8.0/LoggingText.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/obj/Debug/net8.0/LoggingText.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/obj/Debug/net8.0/LoggingText.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/obj/Debug/net8.0/LoggingText.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/obj/Debug/net8.0/LoggingText.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/obj/Debug/net8.0/refint/LoggingText.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/obj/Debug/net8.0/LoggingText.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/obj/Debug/net8.0/LoggingText.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/obj/Debug/net8.0/ref/LoggingText.dll
