@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DIExercice/DIExercice/bin/Debug/net8.0/DIExercice
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DIExercice/DIExercice/bin/Debug/net8.0/DIExercice.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DIExercice/DIExercice/bin/Debug/net8.0/DIExercice.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DIExercice/DIExercice/bin/Debug/net8.0/DIExercice.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DIExercice/DIExercice/bin/Debug/net8.0/DIExercice.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DIExercice/DIExercice/obj/Debug/net8.0/DIExercice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DIExercice/DIExercice/obj/Debug/net8.0/DIExercice.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DIExercice/DIExercice/obj/Debug/net8.0/DIExercice.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DIExercice/DIExercice/obj/Debug/net8.0/DIExercice.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DIExercice/DIExercice/obj/Debug/net8.0/DIExercice.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DIExercice/DIExercice/obj/Debug/net8.0/DIExercice.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DIExercice/DIExercice/obj/Debug/net8.0/refint/DIExercice.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DIExercice/DIExercice/obj/Debug/net8.0/DIExercice.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DIExercice/DIExercice/obj/Debug/net8.0/DIExercice.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DIExercice/DIExercice/obj/Debug/net8.0/ref/DIExercice.dll
