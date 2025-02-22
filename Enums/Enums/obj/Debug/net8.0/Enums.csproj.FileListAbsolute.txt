@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Enums/Enums/bin/Debug/net8.0/Enums
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Enums/Enums/bin/Debug/net8.0/Enums.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Enums/Enums/bin/Debug/net8.0/Enums.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Enums/Enums/bin/Debug/net8.0/Enums.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Enums/Enums/bin/Debug/net8.0/Enums.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Enums/Enums/obj/Debug/net8.0/Enums.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Enums/Enums/obj/Debug/net8.0/Enums.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Enums/Enums/obj/Debug/net8.0/Enums.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Enums/Enums/obj/Debug/net8.0/Enums.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Enums/Enums/obj/Debug/net8.0/Enums.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Enums/Enums/obj/Debug/net8.0/Enums.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Enums/Enums/obj/Debug/net8.0/refint/Enums.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Enums/Enums/obj/Debug/net8.0/Enums.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Enums/Enums/obj/Debug/net8.0/Enums.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Enums/Enums/obj/Debug/net8.0/ref/Enums.dll

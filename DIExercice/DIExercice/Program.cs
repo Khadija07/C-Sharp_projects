@@ -78,5 +78,8 @@ class Program
     {
         Exercise exercise = new Exercise();
         exercise.Run();
+        
+        Polymorphism polymorphism = new Polymorphism();
+        polymorphism.PrintAreas();
     }
 }
