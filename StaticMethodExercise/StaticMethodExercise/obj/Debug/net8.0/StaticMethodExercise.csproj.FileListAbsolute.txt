@@ -1,0 +1,15 @@
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\StaticMethodExercise\StaticMethodExercise\bin\Debug\net8.0\StaticMethodExercise.exe
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\StaticMethodExercise\StaticMethodExercise\bin\Debug\net8.0\StaticMethodExercise.deps.json
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\StaticMethodExercise\StaticMethodExercise\bin\Debug\net8.0\StaticMethodExercise.runtimeconfig.json
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\StaticMethodExercise\StaticMethodExercise\bin\Debug\net8.0\StaticMethodExercise.dll
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\StaticMethodExercise\StaticMethodExercise\bin\Debug\net8.0\StaticMethodExercise.pdb
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\StaticMethodExercise\StaticMethodExercise\obj\Debug\net8.0\StaticMethodExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\StaticMethodExercise\StaticMethodExercise\obj\Debug\net8.0\StaticMethodExercise.AssemblyInfoInputs.cache
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\StaticMethodExercise\StaticMethodExercise\obj\Debug\net8.0\StaticMethodExercise.AssemblyInfo.cs
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\StaticMethodExercise\StaticMethodExercise\obj\Debug\net8.0\StaticMethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\StaticMethodExercise\StaticMethodExercise\obj\Debug\net8.0\StaticMethodExercise.sourcelink.json
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\StaticMethodExercise\StaticMethodExercise\obj\Debug\net8.0\StaticMethodExercise.dll
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\StaticMethodExercise\StaticMethodExercise\obj\Debug\net8.0\refint\StaticMethodExercise.dll
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\StaticMethodExercise\StaticMethodExercise\obj\Debug\net8.0\StaticMethodExercise.pdb
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\StaticMethodExercise\StaticMethodExercise\obj\Debug\net8.0\StaticMethodExercise.genruntimeconfig.cache
+C:\Users\Khadijtul Kobra\Documents\GitHub\C-Sharp_projects\StaticMethodExercise\StaticMethodExercise\obj\Debug\net8.0\ref\StaticMethodExercise.dll
