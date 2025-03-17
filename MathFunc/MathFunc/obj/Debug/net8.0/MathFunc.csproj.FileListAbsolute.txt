@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/MathFunc/MathFunc/obj/Debug/net8.0/MathFunc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/MathFunc/MathFunc/obj/Debug/net8.0/MathFunc.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/MathFunc/MathFunc/obj/Debug/net8.0/MathFunc.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/MathFunc/MathFunc/obj/Debug/net8.0/MathFunc.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/MathFunc/MathFunc/obj/Debug/net8.0/MathFunc.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/MathFunc/MathFunc/bin/Debug/net8.0/MathFunc
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/MathFunc/MathFunc/bin/Debug/net8.0/MathFunc.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/MathFunc/MathFunc/bin/Debug/net8.0/MathFunc.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/MathFunc/MathFunc/bin/Debug/net8.0/MathFunc.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/MathFunc/MathFunc/bin/Debug/net8.0/MathFunc.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/MathFunc/MathFunc/obj/Debug/net8.0/MathFunc.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/MathFunc/MathFunc/obj/Debug/net8.0/refint/MathFunc.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/MathFunc/MathFunc/obj/Debug/net8.0/MathFunc.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/MathFunc/MathFunc/obj/Debug/net8.0/MathFunc.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/MathFunc/MathFunc/obj/Debug/net8.0/ref/MathFunc.dll

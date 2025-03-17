@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciseStruct/AdvanceExerciseStruct/bin/Debug/net8.0/AdvanceExerciseStruct
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciseStruct/AdvanceExerciseStruct/bin/Debug/net8.0/AdvanceExerciseStruct.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciseStruct/AdvanceExerciseStruct/bin/Debug/net8.0/AdvanceExerciseStruct.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciseStruct/AdvanceExerciseStruct/bin/Debug/net8.0/AdvanceExerciseStruct.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciseStruct/AdvanceExerciseStruct/bin/Debug/net8.0/AdvanceExerciseStruct.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciseStruct/AdvanceExerciseStruct/obj/Debug/net8.0/AdvanceExerciseStruct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciseStruct/AdvanceExerciseStruct/obj/Debug/net8.0/AdvanceExerciseStruct.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciseStruct/AdvanceExerciseStruct/obj/Debug/net8.0/AdvanceExerciseStruct.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciseStruct/AdvanceExerciseStruct/obj/Debug/net8.0/AdvanceExerciseStruct.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciseStruct/AdvanceExerciseStruct/obj/Debug/net8.0/AdvanceExerciseStruct.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciseStruct/AdvanceExerciseStruct/obj/Debug/net8.0/AdvanceExerciseStruct.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciseStruct/AdvanceExerciseStruct/obj/Debug/net8.0/refint/AdvanceExerciseStruct.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciseStruct/AdvanceExerciseStruct/obj/Debug/net8.0/AdvanceExerciseStruct.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciseStruct/AdvanceExerciseStruct/obj/Debug/net8.0/AdvanceExerciseStruct.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/AdvanceExerciseStruct/AdvanceExerciseStruct/obj/Debug/net8.0/ref/AdvanceExerciseStruct.dll
