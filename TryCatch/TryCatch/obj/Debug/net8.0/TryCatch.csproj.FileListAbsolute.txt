@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/TryCatch/TryCatch/bin/Debug/net8.0/TryCatch
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/TryCatch/TryCatch/bin/Debug/net8.0/TryCatch.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/TryCatch/TryCatch/bin/Debug/net8.0/TryCatch.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/TryCatch/TryCatch/bin/Debug/net8.0/TryCatch.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/TryCatch/TryCatch/bin/Debug/net8.0/TryCatch.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/TryCatch/TryCatch/obj/Debug/net8.0/TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/TryCatch/TryCatch/obj/Debug/net8.0/TryCatch.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/TryCatch/TryCatch/obj/Debug/net8.0/TryCatch.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/TryCatch/TryCatch/obj/Debug/net8.0/TryCatch.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/TryCatch/TryCatch/obj/Debug/net8.0/TryCatch.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/TryCatch/TryCatch/obj/Debug/net8.0/TryCatch.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/TryCatch/TryCatch/obj/Debug/net8.0/refint/TryCatch.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/TryCatch/TryCatch/obj/Debug/net8.0/TryCatch.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/TryCatch/TryCatch/obj/Debug/net8.0/TryCatch.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/TryCatch/TryCatch/obj/Debug/net8.0/ref/TryCatch.dll

@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ListSection/ListSection/bin/Debug/net8.0/ListSection
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ListSection/ListSection/bin/Debug/net8.0/ListSection.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ListSection/ListSection/bin/Debug/net8.0/ListSection.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ListSection/ListSection/bin/Debug/net8.0/ListSection.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ListSection/ListSection/bin/Debug/net8.0/ListSection.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ListSection/ListSection/obj/Debug/net8.0/ListSection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ListSection/ListSection/obj/Debug/net8.0/ListSection.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ListSection/ListSection/obj/Debug/net8.0/ListSection.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ListSection/ListSection/obj/Debug/net8.0/ListSection.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ListSection/ListSection/obj/Debug/net8.0/ListSection.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ListSection/ListSection/obj/Debug/net8.0/ListSection.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ListSection/ListSection/obj/Debug/net8.0/refint/ListSection.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ListSection/ListSection/obj/Debug/net8.0/ListSection.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ListSection/ListSection/obj/Debug/net8.0/ListSection.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ListSection/ListSection/obj/Debug/net8.0/ref/ListSection.dll

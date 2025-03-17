@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ConstructorInheritance/ConstructorInheritance/bin/Debug/net8.0/ConstructorInheritance
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ConstructorInheritance/ConstructorInheritance/bin/Debug/net8.0/ConstructorInheritance.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ConstructorInheritance/ConstructorInheritance/bin/Debug/net8.0/ConstructorInheritance.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ConstructorInheritance/ConstructorInheritance/bin/Debug/net8.0/ConstructorInheritance.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ConstructorInheritance/ConstructorInheritance/bin/Debug/net8.0/ConstructorInheritance.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ConstructorInheritance/ConstructorInheritance/obj/Debug/net8.0/ConstructorInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ConstructorInheritance/ConstructorInheritance/obj/Debug/net8.0/ConstructorInheritance.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ConstructorInheritance/ConstructorInheritance/obj/Debug/net8.0/ConstructorInheritance.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ConstructorInheritance/ConstructorInheritance/obj/Debug/net8.0/ConstructorInheritance.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ConstructorInheritance/ConstructorInheritance/obj/Debug/net8.0/ConstructorInheritance.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ConstructorInheritance/ConstructorInheritance/obj/Debug/net8.0/ConstructorInheritance.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ConstructorInheritance/ConstructorInheritance/obj/Debug/net8.0/refint/ConstructorInheritance.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ConstructorInheritance/ConstructorInheritance/obj/Debug/net8.0/ConstructorInheritance.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ConstructorInheritance/ConstructorInheritance/obj/Debug/net8.0/ConstructorInheritance.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ConstructorInheritance/ConstructorInheritance/obj/Debug/net8.0/ref/ConstructorInheritance.dll

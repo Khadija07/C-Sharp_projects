@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\ClassesApp\\ClassesApp\\ClassesApp.csproj": {}
+    "/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ClassesApp/ClassesApp/ClassesApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\ClassesApp\\ClassesApp\\ClassesApp.csproj": {
+    "/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ClassesApp/ClassesApp/ClassesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\ClassesApp\\ClassesApp\\ClassesApp.csproj",
+        "projectUniqueName": "/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ClassesApp/ClassesApp/ClassesApp.csproj",
         "projectName": "ClassesApp",
-        "projectPath": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\ClassesApp\\ClassesApp\\ClassesApp.csproj",
-        "packagesPath": "C:\\Users\\Khadijtul Kobra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\ClassesApp\\ClassesApp\\obj\\",
+        "projectPath": "/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ClassesApp/ClassesApp/ClassesApp.csproj",
+        "packagesPath": "/Users/khadijatulkobra/.nuget/packages/",
+        "outputPath": "/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/ClassesApp/ClassesApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Khadijtul Kobra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/khadijatulkobra/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/khadijatulkobra/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

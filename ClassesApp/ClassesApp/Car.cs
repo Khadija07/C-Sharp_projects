@@ -31,7 +31,7 @@ namespace ClassesApp
                 if (_isLuxury)
                 {
 
-                return _brand + " luxury brand"; 
+                    return _brand + " luxury brand"; 
                 }
                 else
                     

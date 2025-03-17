@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/section6AdvancedExercise/section6AdvancedExercise/bin/Debug/net8.0/section6AdvancedExercise
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/section6AdvancedExercise/section6AdvancedExercise/bin/Debug/net8.0/section6AdvancedExercise.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/section6AdvancedExercise/section6AdvancedExercise/bin/Debug/net8.0/section6AdvancedExercise.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/section6AdvancedExercise/section6AdvancedExercise/bin/Debug/net8.0/section6AdvancedExercise.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/section6AdvancedExercise/section6AdvancedExercise/bin/Debug/net8.0/section6AdvancedExercise.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/section6AdvancedExercise/section6AdvancedExercise/obj/Debug/net8.0/section6AdvancedExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/section6AdvancedExercise/section6AdvancedExercise/obj/Debug/net8.0/section6AdvancedExercise.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/section6AdvancedExercise/section6AdvancedExercise/obj/Debug/net8.0/section6AdvancedExercise.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/section6AdvancedExercise/section6AdvancedExercise/obj/Debug/net8.0/section6AdvancedExercise.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/section6AdvancedExercise/section6AdvancedExercise/obj/Debug/net8.0/section6AdvancedExercise.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/section6AdvancedExercise/section6AdvancedExercise/obj/Debug/net8.0/section6AdvancedExercise.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/section6AdvancedExercise/section6AdvancedExercise/obj/Debug/net8.0/refint/section6AdvancedExercise.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/section6AdvancedExercise/section6AdvancedExercise/obj/Debug/net8.0/section6AdvancedExercise.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/section6AdvancedExercise/section6AdvancedExercise/obj/Debug/net8.0/section6AdvancedExercise.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/section6AdvancedExercise/section6AdvancedExercise/obj/Debug/net8.0/ref/section6AdvancedExercise.dll

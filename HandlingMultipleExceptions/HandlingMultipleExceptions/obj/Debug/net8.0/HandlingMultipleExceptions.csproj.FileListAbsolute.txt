@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/HandlingMultipleExceptions/HandlingMultipleExceptions/obj/Debug/net8.0/HandlingMultipleExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/HandlingMultipleExceptions/HandlingMultipleExceptions/obj/Debug/net8.0/HandlingMultipleExceptions.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/HandlingMultipleExceptions/HandlingMultipleExceptions/obj/Debug/net8.0/HandlingMultipleExceptions.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/HandlingMultipleExceptions/HandlingMultipleExceptions/obj/Debug/net8.0/HandlingMultipleExceptions.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/HandlingMultipleExceptions/HandlingMultipleExceptions/obj/Debug/net8.0/HandlingMultipleExceptions.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/HandlingMultipleExceptions/HandlingMultipleExceptions/bin/Debug/net8.0/HandlingMultipleExceptions
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/HandlingMultipleExceptions/HandlingMultipleExceptions/bin/Debug/net8.0/HandlingMultipleExceptions.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/HandlingMultipleExceptions/HandlingMultipleExceptions/bin/Debug/net8.0/HandlingMultipleExceptions.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/HandlingMultipleExceptions/HandlingMultipleExceptions/bin/Debug/net8.0/HandlingMultipleExceptions.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/HandlingMultipleExceptions/HandlingMultipleExceptions/bin/Debug/net8.0/HandlingMultipleExceptions.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/HandlingMultipleExceptions/HandlingMultipleExceptions/obj/Debug/net8.0/HandlingMultipleExceptions.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/HandlingMultipleExceptions/HandlingMultipleExceptions/obj/Debug/net8.0/refint/HandlingMultipleExceptions.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/HandlingMultipleExceptions/HandlingMultipleExceptions/obj/Debug/net8.0/HandlingMultipleExceptions.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/HandlingMultipleExceptions/HandlingMultipleExceptions/obj/Debug/net8.0/HandlingMultipleExceptions.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/HandlingMultipleExceptions/HandlingMultipleExceptions/obj/Debug/net8.0/ref/HandlingMultipleExceptions.dll

@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/arrayList/arrayList/bin/Debug/net8.0/arrayList
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/arrayList/arrayList/bin/Debug/net8.0/arrayList.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/arrayList/arrayList/bin/Debug/net8.0/arrayList.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/arrayList/arrayList/bin/Debug/net8.0/arrayList.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/arrayList/arrayList/bin/Debug/net8.0/arrayList.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/arrayList/arrayList/obj/Debug/net8.0/arrayList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/arrayList/arrayList/obj/Debug/net8.0/arrayList.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/arrayList/arrayList/obj/Debug/net8.0/arrayList.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/arrayList/arrayList/obj/Debug/net8.0/arrayList.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/arrayList/arrayList/obj/Debug/net8.0/arrayList.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/arrayList/arrayList/obj/Debug/net8.0/arrayList.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/arrayList/arrayList/obj/Debug/net8.0/refint/arrayList.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/arrayList/arrayList/obj/Debug/net8.0/arrayList.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/arrayList/arrayList/obj/Debug/net8.0/arrayList.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/arrayList/arrayList/obj/Debug/net8.0/ref/arrayList.dll

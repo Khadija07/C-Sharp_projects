@@ -1,0 +1,5 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Polymorphism/Polymorphism/obj/Debug/net8.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Polymorphism/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Polymorphism/Polymorphism/obj/Debug/net8.0/Polymorphism.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Polymorphism/Polymorphism/obj/Debug/net8.0/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Polymorphism/Polymorphism/obj/Debug/net8.0/Polymorphism.sourcelink.json

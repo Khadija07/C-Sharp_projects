@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DependencyInjection/DependencyInjection/obj/Debug/net8.0/DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DependencyInjection/DependencyInjection/obj/Debug/net8.0/DependencyInjection.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DependencyInjection/DependencyInjection/obj/Debug/net8.0/DependencyInjection.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DependencyInjection/DependencyInjection/obj/Debug/net8.0/DependencyInjection.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DependencyInjection/DependencyInjection/obj/Debug/net8.0/DependencyInjection.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DependencyInjection/DependencyInjection/bin/Debug/net8.0/DependencyInjection
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DependencyInjection/DependencyInjection/bin/Debug/net8.0/DependencyInjection.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DependencyInjection/DependencyInjection/bin/Debug/net8.0/DependencyInjection.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DependencyInjection/DependencyInjection/bin/Debug/net8.0/DependencyInjection.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DependencyInjection/DependencyInjection/bin/Debug/net8.0/DependencyInjection.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DependencyInjection/DependencyInjection/obj/Debug/net8.0/DependencyInjection.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DependencyInjection/DependencyInjection/obj/Debug/net8.0/refint/DependencyInjection.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DependencyInjection/DependencyInjection/obj/Debug/net8.0/DependencyInjection.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DependencyInjection/DependencyInjection/obj/Debug/net8.0/DependencyInjection.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/DependencyInjection/DependencyInjection/obj/Debug/net8.0/ref/DependencyInjection.dll

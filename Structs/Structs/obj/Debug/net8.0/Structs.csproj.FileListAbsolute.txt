@@ -1,0 +1,15 @@
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Structs/Structs/bin/Debug/net8.0/Structs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Structs/Structs/bin/Debug/net8.0/Structs.deps.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Structs/Structs/bin/Debug/net8.0/Structs.runtimeconfig.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Structs/Structs/bin/Debug/net8.0/Structs.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Structs/Structs/bin/Debug/net8.0/Structs.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Structs/Structs/obj/Debug/net8.0/Structs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Structs/Structs/obj/Debug/net8.0/Structs.AssemblyInfoInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Structs/Structs/obj/Debug/net8.0/Structs.AssemblyInfo.cs
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Structs/Structs/obj/Debug/net8.0/Structs.csproj.CoreCompileInputs.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Structs/Structs/obj/Debug/net8.0/Structs.sourcelink.json
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Structs/Structs/obj/Debug/net8.0/Structs.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Structs/Structs/obj/Debug/net8.0/refint/Structs.dll
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Structs/Structs/obj/Debug/net8.0/Structs.pdb
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Structs/Structs/obj/Debug/net8.0/Structs.genruntimeconfig.cache
+/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/Structs/Structs/obj/Debug/net8.0/ref/Structs.dll
