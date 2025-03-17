@@ -8,12 +8,13 @@ public interface Ilogger
 }
 
 //writes in the file inside folder /Logs
+/*
 public class FileLogger : Ilogger
 {
     public void Log(string message)
     {
         //create folder and log text
-        //string directoryPath = @"/Users/khadijatulkobra/Desktop/:Logs";
+        string directoryPath = @"/Users/khadijatulkobra/Desktop/:Logs";
         //string filePath = System.IO.Path.Combine(directoryPath, "log.txt");
         
         string filePath = Path.Combine(directoryPath, "log.txt");
@@ -25,6 +26,7 @@ public class FileLogger : Ilogger
         File.AppendAllText(filePath, message + "\n");   
     }
 }
+*/
 
 public class Database : Ilogger
 {
