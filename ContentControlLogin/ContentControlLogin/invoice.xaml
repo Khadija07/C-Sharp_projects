@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="ContentControlLogin.invoice"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ContentControlLogin"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="10"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Invoice" Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="20" Foreground="#FFF3E6E6" />
+        <TextBlock Grid.Column="1" Grid.Row="3" TextWrapping="Wrap" FontSize="14" VerticalAlignment="Center">
+        ✅ Login Successful. Welcome to the Invoice Management System.
+        <LineBreak/>
+        You have successfully logged in. From here, you can create new invoices,
+        review past transactions, manage client accounts, and generate financial reports.
+        <LineBreak/>
+        If you experience any issues while navigating the system,
+        please contact your administrator or reach out to support.
+        <LineBreak/>
+        Click OK to continue to the Invoice Dashboard.
+        <LineBreak/>
+        <LineBreak/>
+        Access Granted – This is the Invoice page.
+        </TextBlock>
+
+
+    </Grid>
+</UserControl>
