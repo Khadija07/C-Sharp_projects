@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Khadijtul Kobra\\Desktop\\WpfDemo\\WpfDemo\\WpfDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\WpfDemo\\WpfDemo\\WpfDemo.csproj",
       "projectName": "WpfDemo",
-      "projectPath": "C:\\Users\\Khadijtul Kobra\\Desktop\\WpfDemo\\WpfDemo\\WpfDemo.csproj",
+      "projectPath": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\WpfDemo\\WpfDemo\\WpfDemo.csproj",
       "packagesPath": "C:\\Users\\Khadijtul Kobra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Khadijtul Kobra\\Desktop\\WpfDemo\\WpfDemo\\obj\\",
+      "outputPath": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\WpfDemo\\WpfDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Khadijtul Kobra\\AppData\\Roaming\\NuGet\\NuGet.Config",

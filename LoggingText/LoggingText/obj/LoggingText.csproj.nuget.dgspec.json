@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/LoggingText.csproj": {}
+    "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoggingText\\LoggingText\\LoggingText.csproj": {}
   },
   "projects": {
-    "/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/LoggingText.csproj": {
+    "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoggingText\\LoggingText\\LoggingText.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/LoggingText.csproj",
+        "projectUniqueName": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoggingText\\LoggingText\\LoggingText.csproj",
         "projectName": "LoggingText",
-        "projectPath": "/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/LoggingText.csproj",
-        "packagesPath": "/Users/khadijatulkobra/.nuget/packages/",
-        "outputPath": "/Users/khadijatulkobra/Documents/GitHub/C-Sharp_projects/LoggingText/LoggingText/obj/",
+        "projectPath": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoggingText\\LoggingText\\LoggingText.csproj",
+        "packagesPath": "C:\\Users\\Khadijtul Kobra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoggingText\\LoggingText\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/khadijatulkobra/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Khadijtul Kobra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/khadijatulkobra/.dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\ListBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D37E8A1-1A3A-4E3F-A0D3-AD41FC234C64}|ListBox\\ListBox.csproj|c:\\users\\khadijtul kobra\\documents\\github\\c-sharp_projects\\listbox\\listbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D37E8A1-1A3A-4E3F-A0D3-AD41FC234C64}|ListBox\\ListBox.csproj|solutionrelative:listbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D37E8A1-1A3A-4E3F-A0D3-AD41FC234C64}|ListBox\\ListBox.csproj|c:\\users\\khadijtul kobra\\documents\\github\\c-sharp_projects\\listbox\\listbox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9D37E8A1-1A3A-4E3F-A0D3-AD41FC234C64}|ListBox\\ListBox.csproj|solutionrelative:listbox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D37E8A1-1A3A-4E3F-A0D3-AD41FC234C64}|ListBox\\ListBox.csproj|c:\\users\\khadijtul kobra\\documents\\github\\c-sharp_projects\\listbox\\listbox\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D37E8A1-1A3A-4E3F-A0D3-AD41FC234C64}|ListBox\\ListBox.csproj|solutionrelative:listbox\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\ListBox\\ListBox\\Data\\Person.cs",
+              "RelativeDocumentMoniker": "ListBox\\Data\\Person.cs",
+              "ToolTip": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\ListBox\\ListBox\\Data\\Person.cs",
+              "RelativeToolTip": "ListBox\\Data\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:42:59.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\ListBox\\ListBox\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ListBox\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\ListBox\\ListBox\\MainWindow.xaml",
+              "RelativeToolTip": "ListBox\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T09:32:01.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\ListBox\\ListBox\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ListBox\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\ListBox\\ListBox\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ListBox\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwDAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:31:56.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

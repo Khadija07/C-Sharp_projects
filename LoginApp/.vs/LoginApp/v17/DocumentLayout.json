@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44ADF8E9-FA07-4257-B3AE-DEC657A18195}|LoginApp\\LoginApp.csproj|c:\\users\\khadijtul kobra\\documents\\github\\c-sharp_projects\\loginapp\\loginapp\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44ADF8E9-FA07-4257-B3AE-DEC657A18195}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ADF8E9-FA07-4257-B3AE-DEC657A18195}|LoginApp\\LoginApp.csproj|c:\\users\\khadijtul kobra\\documents\\github\\c-sharp_projects\\loginapp\\loginapp\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ADF8E9-FA07-4257-B3AE-DEC657A18195}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ADF8E9-FA07-4257-B3AE-DEC657A18195}|LoginApp\\LoginApp.csproj|c:\\users\\khadijtul kobra\\documents\\github\\c-sharp_projects\\loginapp\\loginapp\\personinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44ADF8E9-FA07-4257-B3AE-DEC657A18195}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\personinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ADF8E9-FA07-4257-B3AE-DEC657A18195}|LoginApp\\LoginApp.csproj|c:\\users\\khadijtul kobra\\documents\\github\\c-sharp_projects\\loginapp\\loginapp\\personinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ADF8E9-FA07-4257-B3AE-DEC657A18195}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\personinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ADF8E9-FA07-4257-B3AE-DEC657A18195}|LoginApp\\LoginApp.csproj|c:\\users\\khadijtul kobra\\documents\\github\\c-sharp_projects\\loginapp\\loginapp\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ADF8E9-FA07-4257-B3AE-DEC657A18195}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ADF8E9-FA07-4257-B3AE-DEC657A18195}|LoginApp\\LoginApp.csproj|c:\\users\\khadijtul kobra\\documents\\github\\c-sharp_projects\\loginapp\\loginapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44ADF8E9-FA07-4257-B3AE-DEC657A18195}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ADF8E9-FA07-4257-B3AE-DEC657A18195}|LoginApp\\LoginApp.csproj|c:\\users\\khadijtul kobra\\documents\\github\\c-sharp_projects\\loginapp\\loginapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ADF8E9-FA07-4257-B3AE-DEC657A18195}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoginApp\\LoginApp\\Data\\Person.cs",
+              "RelativeDocumentMoniker": "LoginApp\\Data\\Person.cs",
+              "ToolTip": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoginApp\\LoginApp\\Data\\Person.cs",
+              "RelativeToolTip": "LoginApp\\Data\\Person.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:30:41.25Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonInfo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoginApp\\LoginApp\\PersonInfo.xaml.cs",
+              "RelativeDocumentMoniker": "LoginApp\\PersonInfo.xaml.cs",
+              "ToolTip": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoginApp\\LoginApp\\PersonInfo.xaml.cs",
+              "RelativeToolTip": "LoginApp\\PersonInfo.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwCAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:33:20.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonInfo.xaml",
+              "DocumentMoniker": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoginApp\\LoginApp\\PersonInfo.xaml",
+              "RelativeDocumentMoniker": "LoginApp\\PersonInfo.xaml",
+              "ToolTip": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoginApp\\LoginApp\\PersonInfo.xaml",
+              "RelativeToolTip": "LoginApp\\PersonInfo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-18T09:05:06.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoginApp\\LoginApp\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "LoginApp\\LoginView.xaml.cs",
+              "ToolTip": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoginApp\\LoginApp\\LoginView.xaml.cs",
+              "RelativeToolTip": "LoginApp\\LoginView.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwCoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T08:29:06.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoginApp\\LoginApp\\LoginView.xaml",
+              "RelativeDocumentMoniker": "LoginApp\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoginApp\\LoginApp\\LoginView.xaml",
+              "RelativeToolTip": "LoginApp\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-18T08:15:41.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoginApp\\LoginApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LoginApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoginApp\\LoginApp\\MainWindow.xaml",
+              "RelativeToolTip": "LoginApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-17T10:44:27.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoginApp\\LoginApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LoginApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\LoginApp\\LoginApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LoginApp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:44:27.651Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

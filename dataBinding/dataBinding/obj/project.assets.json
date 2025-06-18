@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Khadijtul Kobra\\source\\repos\\dataBinding\\dataBinding\\dataBinding.csproj",
+      "projectUniqueName": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\dataBinding\\dataBinding\\dataBinding.csproj",
       "projectName": "dataBinding",
-      "projectPath": "C:\\Users\\Khadijtul Kobra\\source\\repos\\dataBinding\\dataBinding\\dataBinding.csproj",
+      "projectPath": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\dataBinding\\dataBinding\\dataBinding.csproj",
       "packagesPath": "C:\\Users\\Khadijtul Kobra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Khadijtul Kobra\\source\\repos\\dataBinding\\dataBinding\\obj\\",
+      "outputPath": "C:\\Users\\Khadijtul Kobra\\Documents\\GitHub\\C-Sharp_projects\\dataBinding\\dataBinding\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Khadijtul Kobra\\AppData\\Roaming\\NuGet\\NuGet.Config",
