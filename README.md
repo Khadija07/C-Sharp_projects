@@ -1,45 +1,53 @@
-🧠 C# Learning Journey
+# 🧠 C# Learning Journey
 Welcome to my C# learning repository! This project tracks my journey as I learn and practice core C# concepts, OOP principles, and desktop application development using WPF.
 
-💡 What I've Learned So Far
+## 💡 What I've Learned So Far
 This repository showcases hands-on examples and mini-projects based on the following topics:
 
-✅ C# Fundamentals
-Variables & Data Types
+## ✅ C# Fundamentals
 
-Arrays
+- Variables & Data Types
 
-If Statements & Control Flow
+- Arrays
 
-Loops (for, while, foreach)
+- If Statements & Control Flow
 
-🧠 Building Logic
-Algorithm Design & Problem Solving
+- Loops (for, while, foreach)
 
-Methods and Functions
+## ✅ Building Logic
 
-Classes & Objects
+- Algorithm Design & Problem Solving
 
-Encapsulation
+- Methods and Functions
 
-🏗 Object-Oriented Programming
-Inheritance
+- Classes & Objects
 
-Polymorphism
+- Encapsulation
 
-Interfaces
+## ✅ Object-Oriented Programming
 
-Generics
+- Inheritance
 
-⚙ Advanced Concepts
-Delegates & Events – Building event-driven patterns
+- Polymorphism
 
-LINQ (if applicable – feel free to remove if not covered yet)
+- Interfaces
 
-🎨 UI Development
+- Generics
+
+## 🎨 UI Development (currently)
+
 WPF (Windows Presentation Foundation) – Creating desktop applications with XAML
 
-🧼 Writing Better Code
+
+## ⚙ Advanced Concepts (upcoming)
+
+- Delegates & Events – Building event-driven patterns
+
+- LINQ 
+- 
+
+##  Writing Better Code
+
 Clean Code Principles – Naming, structure, and readability
 
 SOLID Principles – Writing scalable and maintainable object-oriented code
